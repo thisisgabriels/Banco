@@ -1,0 +1,11 @@
+C:\Users\gabriel.malaquias\source\repos\Banco 2\Banco 2\obj\Debug\Banco 2.csprojAssemblyReference.cache
+C:\Users\gabriel.malaquias\source\repos\Banco 2\Banco 2\obj\Debug\Banco_2.Form1.resources
+C:\Users\gabriel.malaquias\source\repos\Banco 2\Banco 2\obj\Debug\Banco_2.Properties.Resources.resources
+C:\Users\gabriel.malaquias\source\repos\Banco 2\Banco 2\obj\Debug\Banco 2.csproj.GenerateResource.cache
+C:\Users\gabriel.malaquias\source\repos\Banco 2\Banco 2\obj\Debug\Banco 2.csproj.CoreCompileInputs.cache
+C:\Users\gabriel.malaquias\source\repos\Banco 2\Banco 2\bin\Debug\Banco 2.exe.config
+C:\Users\gabriel.malaquias\source\repos\Banco 2\Banco 2\bin\Debug\Banco 2.exe
+C:\Users\gabriel.malaquias\source\repos\Banco 2\Banco 2\bin\Debug\Banco 2.pdb
+C:\Users\gabriel.malaquias\source\repos\Banco 2\Banco 2\obj\Debug\Banco 2.exe
+C:\Users\gabriel.malaquias\source\repos\Banco 2\Banco 2\obj\Debug\Banco 2.pdb
+C:\Users\gabriel.malaquias\source\repos\Banco 2\Banco 2\obj\Debug\Banco_2.FormCadastroConta.resources
